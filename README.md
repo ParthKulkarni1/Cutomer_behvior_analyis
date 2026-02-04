@@ -130,12 +130,5 @@ Python | SQL | Power BI | Data Visualization
 
 ---
 
-If you want, I can also:
 
-* Shorten this for **resume-linked GitHub projects**
-* Add **business questions & KPIs**
-* Make it sound more **entry-level** or **experienced**
-* Create a **matching project description for LinkedIn**
-
-Just tell me 👍
 
