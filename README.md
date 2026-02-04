@@ -1,9 +1,3 @@
-Below is a **clean, professional, recruiter-friendly README.md** tailored exactly to your project scope.
-It’s structured, simple, and highlights **end-to-end data analysis skills** (Python → SQL → Power BI → Reporting).
-
-You can copy-paste this directly into your GitHub repository.
-
----
 
 # 📊 End-to-End Data Analysis Project
 
